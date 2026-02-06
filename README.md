@@ -19,7 +19,7 @@ This project includes an automation suite designed to bridge the gap between web
 - **Browser-to-Sheet Pipeline:** Automated extraction of building data from web interfaces.
 - **Python Integration:** Seamlessly passes raw web data into the DeepSeek Logic Core.
 - **Google Sheets API:** Automatically updates the final dataset into cloud storage for team collaboration.
-- ** You Need a credentials.json file to run the Automation script
+-               ****You Need a credentials.json file to run the Automation script****
 
 ## 📊 Sample Output
 The tool generates a structured `verification.txt` with logical "thinking" blocks and valid JSON subtasks.
